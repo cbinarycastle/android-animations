@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HideTopViewOnScrollBehavior">
+        <attr name="behavior_enterAnimDuration" format="integer" />
+        <attr name="behavior_exitAnimDuration" format="integer" />
+        <attr name="behavior_scrollingUpThreshold" format="integer" />
+        <attr name="behavior_scrollingDownThreshold" format="integer" />
+    </declare-styleable>
+</resources>
